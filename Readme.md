@@ -5,7 +5,7 @@ Node tracing library for Sysdig's fantastic [tracers](https://sysdig.com/blog/sy
 ## Installation
 
 ```
-$ npm install --save tj/node-trace
+$ npm install --save drylikov/node_trace
 ```
 
 ## Example
