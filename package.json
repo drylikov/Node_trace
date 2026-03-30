@@ -1,0 +1,22 @@
+
+{
+  "name": "node_trace",
+  "version": "1.0.0",
+  "description": "Sysdig tracing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "trace",
+    "tracing",
+    "sysdig",
+    "tracer"
+  ],
+  "author": "denis.rylikov@protonmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "memory-streams": "^0.1.0",
+    "mocha": "^2.5.3"
+  }
+}
